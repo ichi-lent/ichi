@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> SAYA MASLENT
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
@@ -65,18 +65,18 @@ Script ini di modifikasi sama saya sendiri MaslentGans.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi MASLENT`](08165466368) VIPUL
+* [`Donasi MASLENT`08165466368) VIPUL
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube Admin`](MAS LENT YT)
-* [`Instagram Admin`](https://instagram.com/_maslent11)
-* [`WhatsApp Admin `](https://wa.me/+628165466368)
+* [`Instagram Admin`(https://instagram.com/_maslent11)
+* [`WhatsApp Admin `(https://wa.me/+628165466368)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`fdciabdul`(https://github.com/fdciabdul/termux-whatsapp-bot)
 
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
+* [`MhankBarBar`(https://github.com/MhankBarBar/whatsapp-bot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
